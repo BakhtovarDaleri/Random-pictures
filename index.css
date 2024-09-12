@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+h1 {
+  color: #003366;
+}
+
+.reload-btn {
+  width: 300px;
+  height: 50px;
+  margin-top: 30px;
+  background-color: #ffc107;
+  border: none;
+  cursor: pointer;
+}
+.reload-btn:hover {
+  background-color: rgb(191, 192, 195);
+}
